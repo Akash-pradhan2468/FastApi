@@ -1,0 +1,47 @@
+{
+  "p001": {
+    "name": "Rahul Kumar",
+    "age": 25,
+    "city": "Bhubaneswar",
+    "height": 1.75,
+    "weight": 68,
+    "bmi": 22.2,
+    "verdict": "Normal"
+  },
+  "p002": {
+    "name": "Anjali Sharma",
+    "age": 30,
+    "city": "Delhi",
+    "height": 1.62,
+    "weight": 75,
+    "bmi": 28.6,
+    "verdict": "Overweight"
+  },
+  "p003": {
+    "name": "Amit Verma",
+    "age": 40,
+    "city": "Mumbai",
+    "height": 1.70,
+    "weight": 95,
+    "bmi": 32.9,
+    "verdict": "Obese"
+  },
+  "p004": {
+    "name": "Sneha Patnaik",
+    "age": 22,
+    "city": "Cuttack",
+    "height": 1.60,
+    "weight": 50,
+    "bmi": 19.5,
+    "verdict": "Normal"
+  },
+  "p005": {
+    "name": "Arjun Singh",
+    "age": 35,
+    "city": "Chennai",
+    "height": 1.80,
+    "weight": 82,
+    "bmi": 25.3,
+    "verdict": "Overweight"
+  }
+}
